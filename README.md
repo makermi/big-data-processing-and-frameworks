@@ -2,6 +2,15 @@
 
 This repository is the portal for the practical course "Big Data Processing and Frameworks" taught by [Montasser AKERMI](https://akermi.org/) at the [Faculty of Sciences of Sfax](https://fss.rnu.tn/).
 
+## Practice material
+* [Word count program with MapReduce](material/word-count.pdf)
+* [Line count with MapReduce](material/line-count.pdf)
+* [Unique word count with MapReduce](material/unique-word-count.pdf)
+* [Character count with MapReduce](material/character-count.pdf)
+* [Podcasts analytics via MapReduce](material/podcasts-analytics.pdf)
+* [Matrix-vector multiplication](material/matrix-vector-multiplication.pdf)
+* [Matrix multiplication via two Hadoop MapReduce jobs](material/matrix-multiplication-two-jobs.pdf)
+
 ## License
 The content of this repository was created by Montasser AKERMI and is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
