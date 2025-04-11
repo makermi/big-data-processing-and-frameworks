@@ -10,6 +10,7 @@ This repository is the portal for the practical course "Big Data Processing and 
 * [Podcasts analytics via MapReduce](material/podcasts-analytics.pdf)
 * [Matrix-vector multiplication](material/matrix-vector-multiplication.pdf)
 * [Matrix multiplication via two Hadoop MapReduce jobs](material/matrix-multiplication-two-jobs.pdf)
+* [Running Spark on YARN](material/spark-yarn.pdf)
 
 ## License
 The content of this repository was created by Montasser AKERMI and is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
